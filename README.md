@@ -1,0 +1,3 @@
+Machine learning model(Logistic regression method),This is a simple model used to Predict survival rate based on gender using titanic dataset. 
+This model can also be used for multiple classification as well. Tools used to create the model:1.Flask (web development),Github pull request (store and retrieve data sets),sk_learn( train model),render.yaml,pandas,numpy,joblib,scikit_learn, gunicorn.
+The model predicts the probability of survival based on gender and the fare(boarding ticket), i.e the higher the fare the higher the level of survival(e.g priority will be to rescue the passengers in the first class who are female). Full source code available here: https://github.com/maketwane/titanic_model
